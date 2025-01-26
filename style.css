@@ -11,10 +11,13 @@ html {
 
 body {
   background-color: #d5e1ef;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
 
 .component {
-  margin: 15rem auto;
   max-width: 32rem;
   padding: 1.6rem 1.6rem 4rem 1.6rem;
   background-color: #fff;
