@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Outfit", sans-serif;
+}
+
+body {
+  background-color: #d5e1ef;
+}
+
+.component {
+  margin: 15rem auto;
+  max-width: 32rem;
+  padding: 1.6rem 1.6rem 4rem 1.6rem;
+  background-color: #fff;
+  border-radius: 2rem;
+  box-shadow: 0 2.5rem 2.5rem 0 rgba(0, 0, 0, 0.0477);
+}
+.qr-img {
+  width: 100%;
+  margin-bottom: 2.4rem;
+  border-radius: 2rem;
+}
+.primary-heading {
+  margin-bottom: 1.6rem;
+  font-size: 2.2rem;
+  line-height: 1.2;
+  color: #1f314f;
+}
+
+.text-box {
+  padding: 0 1.6rem;
+  text-align: center;
+}
+.text {
+  font-size: 1.5rem;
+  line-height: 1.4;
+  letter-spacing: 0.2px;
+  color: #68778d;
+}
